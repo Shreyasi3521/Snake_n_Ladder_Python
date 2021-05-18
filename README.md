@@ -1,2 +1,6 @@
 # Snake_n_Ladder_Python
-Automated snake and ladder game implemented in python using oop concepts (class, inheritence, etc.)
+1. Run the file [SnL.py](./SnL.py).
+2. Enter the number of players.
+3. Enter the names of players.
+
+You are good to go. Program will play the game for you and give you the winner.
